@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://media.discordapp.net/attachments/601209979143454755/1002439995770015764/4e66d66e8498d4c8f51c32727bdb33f1.png');
+    background-repeat: repeat;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+header {
+    background-image: url('https://cdn.discordapp.com/attachments/601209979143454755/1107892218666164276/noice_1.gif');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 300px;
+    padding: 0;
+}
+
+h1 {
+    text-shadow: 1px 4px 7px #000;
+    text-transform: uppercase;
+    transform: rotate(-7deg);
+    font: bold 4em Oswald;
+    margin-left: -475px;
+    letter-spacing: 15px;
+    position: absolute;
+    white-space: pre;
+    text-align: left;
+    left: 45vw;
+    top: 100px;
+}
+
+main {
+    padding: 20px;
+}
+
+.journal-entry {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px !important;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    width: 75%;
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #fff;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 1em;
+    color: #ccc;
+}
+
+img {
+    margin: 10px auto;
+    display: block;
+    width: 500px;
+    height: 100%;
+}
